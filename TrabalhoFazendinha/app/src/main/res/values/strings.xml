@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TrabalhoFazendinha</string>
+    <string name="latitude">Latitude</string>
+    <string name="fazendinha">Fazendinha</string>
+    <string name="lista_de_fazendas">Lista de fazendas</string>
+    <string name="valor">Valor</string>
+    <string name="nome">Nome</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="registro">Registro</string>
+    <string name="longitude">Longitude</string>
+    <string name="mostrar_fazenda">Mostrar Fazenda</string>
+    <string name="fazenda">Fazenda:</string>
+    <string name="atualizar">Atualizar</string>
+</resources>
