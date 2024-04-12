@@ -6,9 +6,9 @@ Projeto de um aplicativo mobile Android desenvolvido em linguagem Kotlin, com o 
 O aplicativo terá as seguintes funcionalidades:
 
 - **Cadastro de Fazendas:** Os usuários poderão adicionar novas fazendas, inserindo informações como registro, nome, valor, latitude e longitude.
-- **Visualização de Fazendas:** Será possível visualizar todas as fazendas cadastradas, exibindo suas informações em uma lista.
+- **Visualização de Fazendas:** Visualizar todas as fazendas cadastradas, exibindo suas informações em uma lista na segunda tela.
 - **Edição de Fazendas:** Os usuários poderão editar as informações de fazendas já cadastradas.
-- **Exclusão de Fazendas:** Haverá a opção de excluir fazendas do banco de dados.
+- **Exclusão de Fazendas:** Uma opção de excluir fazendas do banco de dados através de pesquisa pelo número de Registro.
 - **Backup para TXT:** Um botão de backup permitirá aos usuários exportar todos os dados do banco de dados para um arquivo de texto (.txt).
 - - **DAO (Data Access Object):** Organizará as operações de acesso ao banco de dados, incluindo inserção, leitura, atualização e exclusão de fazendas.
 
